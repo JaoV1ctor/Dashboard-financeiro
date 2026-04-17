@@ -1,8 +1,6 @@
 # ⚡ Elite Terminal | Conversor Híbrido Premium
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1611974717483-5828ff79cb0b?auto=format&fit=crop&q=80&w=1200" alt="Elite Terminal Banner" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Stable%20v1.2.0-F4D548?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status">
