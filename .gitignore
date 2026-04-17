@@ -1,0 +1,24 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+.gemini/
+scratch/
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
+research_notes.md
+analysis_results.md
+*.log
+
+# Workspace
+.antigravity/
